@@ -8,7 +8,7 @@ linux amd64: https://github.com/webosbrew/dev-manager-desktop/releases/download/
 
 linux arm64: https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.3/webos-dev-manager_1.99.3_arm64.deb
 
-Mac OS :https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.3/webOS.Dev.Manager_1.99.3_aarch64.dmg
+Mac OS :https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.3/webOS.Dev.Manager_1.99.3_universal.dmg
 
 para instalar em outros sistemas : https://github.com/webosbrew/dev-manager-desktop/releases
 
