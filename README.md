@@ -10,7 +10,7 @@ linux arm64: https://github.com/webosbrew/dev-manager-desktop/releases/download/
 
 Mac OS :https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.3/webOS.Dev.Manager_1.99.3_universal.dmg
 
-para instalar em outros sistemas : https://github.com/webosbrew/dev-manager-desktop/releases
+para instalar em outros sistemas e se as verções acima estiverem desatualizadas : https://github.com/webosbrew/dev-manager-desktop/releases
 
 link do kodi .ipk pra usar no segundo metodo: https://kodi.tv/download/webos/
 
